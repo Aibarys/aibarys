@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aiba</h1>
-<h3 align="center">backend developer from Kazakhstan</h3>
+<h3 align="center">full-stack developer from Kazakhstan</h3>
 
 - 🌱 I’m currently learning **GO, Docker, Kubernetes**
 
