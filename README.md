@@ -4,7 +4,6 @@
 - 🌱 I’m currently learning **GO, Docker, Kubernetes**
 
 - 📫 How to reach me **aybarys@mail.ru**
-- 
 <p align="left">
 <h3 align="left">Skills:</h3>
 <h4 align="left">Programming Languages:</h4>
