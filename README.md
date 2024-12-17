@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning Django, Docker, Kubernetes**
 
-- 📫 How to reach me **aybarys@mail.ru**
+- 📫 How to reach me **aibarysshaimurat@gmail.com**
 <p align="left">
 <h3 align="left">Skills:</h3>
 <h4 align="left">Programming Languages:</h4> 
